@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285172402754', '️One', true],
-  ['6285172402754', '️Two', true],
-  ['6285172402754', '️Three', true],
-  ['6285172402754', '️Four', true],
-  ['6285172402754', '️Five', true],
-  ['6285172402754', '️Six', true],
-  ['6285172402754', '️Seven', true],
-  ['6285172402754', '️Eight', true],
-  ['6285172402754', '️Nine', true],
-  ['6285172402754', '️Teen', true]
+  ['6285714056133', '️One', true],
+  ['6285172402754', '️Two', false],
+  ['6285172402754', '️Three', false],
+  ['6285172402754', '️Four', false],
+  ['6285172402754', '️Five', false],
+  ['6285172402754', '️Six', false],
+  ['6285172402754', '️Seven', false],
+  ['6285172402754', '️Eight', false],
+  ['6285172402754', '️Nine', false],
+  ['6285172402754', '️Teen', false]
 ]
 global.mods = []
 global.prems = []
@@ -84,14 +84,14 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285172398526'
-global.nomorown = '6285172402754'
+global.nomorbot = '6285695952575'
+global.nomorown = '6285714056133'
 global.namebot = 'Takina-Md 🔥'
-global.nameown = '「 YuuTaa 」'
+global.nameown = '「 Zyn 」'
 
 /*Watermark*/
 global.wm = '                「 Takina-Md 🔥  」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘YuuTaa˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zyn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Takina-Md 🔥'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
@@ -434,9 +434,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Takina-Md 乂 YuuTaa\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ YuuTaa'
-global.author = 'Takina-Md 乂 YuuTaa'
+global.stickauth = `☂︎ Takina-Md 乂 Zyn\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.625695952575}`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Zyn'
+global.author = 'Takina-Md 乂 Zyn'
 global.multiplier = 10
 
 /*Pesan*/
@@ -448,7 +448,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/G4mO5FfkELyAoBHjjWikzB'
 
 /*Donasi*/
-global.saweria = '-'
+global.saweria = 'https://saweria.co/zynnxd'
 global.dana = 'HUB OWNER'
 global.pulsa = 'HUB OWNER'
 global.trakteer = '-'
@@ -457,9 +457,9 @@ global.gopay = 'HUB OWNER'
 global.pdana = 'HUB OWNER'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085172402754'
-global.ppulsa2 = '088970859360'
-global.psaweria = '-'
+global.ppulsa = '6285714056133'
+global.ppulsa2 = '6285695952575'
+global.psaweria = 'https://saweria.co/zynnxd'
 
 /*Emoji*/
 global.rpg = {
